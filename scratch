@@ -1,0 +1,2 @@
+//const attachment = new Discord.MessageAttachment(canvas.toBuffer(), 'welcome-image.png');
+//msg.channel.send(`Welcome to the server!`, attachment);

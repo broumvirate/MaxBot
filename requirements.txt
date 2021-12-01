@@ -1,0 +1,7 @@
+scikit-learn
+numpy==1.21.2
+Pillow==8.4.0
+scipy
+uniseg==0.7.1.post2
+opencv_python
+requests==2.26.0
